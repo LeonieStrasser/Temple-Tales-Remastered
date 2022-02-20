@@ -142,10 +142,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ddfc96b23da78894b9a3bb0caf50a8c4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  snackpointDistance: 0.2
   p0: {fileID: 3216674268949143615}
   p1: {fileID: 3216674268944281223}
-  snackpointDistance: 0.2
   snackpointPrefab: {fileID: 89999804648401767, guid: fee9b7215242ac149ae7aa060b7c3e70, type: 3}
+  SnackpointParentPrefab: {fileID: 868342623316772008, guid: 700c6f873b6af064181347f67def9ce6, type: 3}
 --- !u!1 &3216674268944281223
 GameObject:
   m_ObjectHideFlags: 0

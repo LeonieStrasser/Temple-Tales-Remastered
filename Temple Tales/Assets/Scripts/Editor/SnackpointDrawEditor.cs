@@ -11,11 +11,14 @@ public class SnackpointDrawEditor : Editor
     {
         base.OnInspectorGUI();
 
-        if(GUILayout.Button("Create Snackpoints"))
+        EditorGUILayout.Space(25);
+
+        if (GUILayout.Button("Create Snackpoints"))
         {
             Snackpointdrawer sd = (Snackpointdrawer)target;
 
             sd.CreateSnackpoints();
         }
+        EditorGUILayout.Space(25);
     }
 }

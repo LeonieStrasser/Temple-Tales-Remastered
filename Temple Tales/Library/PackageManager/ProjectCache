@@ -1,34 +1,194 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: G:/Games Academy/Projekte/Temple_Tales_Revival/Temple_tales_Projekt/Temple-Tales-Remastered/Temple
-      Tales/Packages/manifest.json
+    m_FilePath: C:/Users/timja/OneDrive/Desktop/GA_Notizen/Freiwillige_Projekte/Temple
+      Tales Remastered/Temple-Tales-Remastered/Temple Tales/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637797894092867841
-    m_Hash: 2969322611
+      ticks: 637809611667827428
+    m_Hash: 1672435212
   m_LockFileStatus:
-    m_FilePath: G:/Games Academy/Projekte/Temple_Tales_Revival/Temple_tales_Projekt/Temple-Tales-Remastered/Temple
-      Tales/Packages/packages-lock.json
+    m_FilePath: C:/Users/timja/OneDrive/Desktop/GA_Notizen/Freiwillige_Projekte/Temple
+      Tales Remastered/Temple-Tales-Remastered/Temple Tales/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637798613216854588
-    m_Hash: 4189096942
+      ticks: 637809611677069413
+    m_Hash: 3284113129
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
+    - packageId: com.unity.cinemachine@2.6.11
+      testable: 0
+      isDirectDependency: 1
+      version: 2.6.11
+      source: 1
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.cinemachine@2.6.11
+      assetPath: Packages/com.unity.cinemachine
+      name: com.unity.cinemachine
+      displayName: Cinemachine
+      author:
+        name: 
+        email: 
+        url: 
+      category: cinematography
+      type: 
+      description: "Smart camera tools for passionate creators. \n\nIMPORTANT NOTE:
+        If you are upgrading from the Asset Store version of Cinemachine, delete
+        the Cinemachine asset from your project BEFORE installing this version from
+        the Package Manager."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.1.11-beta.1
+        - 2.1.12
+        - 2.1.13
+        - 2.2.0
+        - 2.2.7
+        - 2.2.8
+        - 2.2.9
+        - 2.2.10-preview.3
+        - 2.2.10-preview.4
+        - 2.3.1
+        - 2.3.3
+        - 2.3.4
+        - 2.3.5-preview.3
+        - 2.4.0-preview.3
+        - 2.4.0-preview.4
+        - 2.4.0-preview.6
+        - 2.4.0-preview.7
+        - 2.4.0-preview.8
+        - 2.4.0-preview.9
+        - 2.4.0-preview.10
+        - 2.4.0
+        - 2.5.0
+        - 2.6.0-preview.2
+        - 2.6.0-preview.3
+        - 2.6.0-preview.5
+        - 2.6.0-preview.8
+        - 2.6.0
+        - 2.6.1-preview.6
+        - 2.6.1
+        - 2.6.2-preview.1
+        - 2.6.2
+        - 2.6.3-preview.2
+        - 2.6.3
+        - 2.6.4
+        - 2.6.5
+        - 2.6.9
+        - 2.6.10
+        - 2.6.11
+        - 2.7.1
+        - 2.7.2
+        - 2.7.3
+        - 2.7.4
+        - 2.7.5
+        - 2.7.8
+        - 2.7.9
+        - 2.8.0-exp.1
+        - 2.8.0-exp.2
+        - 2.8.0-pre.1
+        - 2.8.0
+        - 2.8.1
+        - 2.8.2
+        - 2.8.3
+        - 2.8.4
+        - 2.9.0-pre.1
+        - 2.9.0-pre.6
+        compatible:
+        - 2.5.0
+        - 2.6.0-preview.2
+        - 2.6.0-preview.3
+        - 2.6.0-preview.5
+        - 2.6.0-preview.8
+        - 2.6.0
+        - 2.6.1-preview.6
+        - 2.6.1
+        - 2.6.2-preview.1
+        - 2.6.2
+        - 2.6.3-preview.2
+        - 2.6.3
+        - 2.6.4
+        - 2.6.5
+        - 2.6.9
+        - 2.6.10
+        - 2.6.11
+        - 2.7.1
+        - 2.7.2
+        - 2.7.3
+        - 2.7.4
+        - 2.7.5
+        - 2.7.8
+        - 2.7.9
+        - 2.8.0-exp.1
+        - 2.8.0-exp.2
+        - 2.8.0-pre.1
+        - 2.8.0
+        - 2.8.1
+        - 2.8.2
+        - 2.8.3
+        - 2.8.4
+        - 2.9.0-pre.1
+        - 2.9.0-pre.6
+        verified: 2.6.11
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - camera
+      - follow
+      - rig
+      - fps
+      - cinematography
+      - aim
+      - orbit
+      - cutscene
+      - cinematic
+      - collision
+      - freelook
+      - cinemachine
+      - compose
+      - composition
+      - dolly
+      - track
+      - clearshot
+      - noise
+      - framing
+      - handheld
+      - lens
+      - impulse
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637715450880000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.com/Unity-Technologies/com.unity.cinemachine.git
+        revision: 0eef4802dbe9ea60fc58767471ce4c5ea86632de
+        path: 
     - packageId: com.unity.collab-proxy@1.3.9
       testable: 0
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -77,11 +237,13 @@ m_PackageAssets:
         - 1.14.7
         - 1.14.9
         - 1.14.12
+        - 1.14.13
         - 1.15.1
         - 1.15.4
         - 1.15.7
         - 1.15.9
         - 1.15.12
+        - 1.15.13
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -105,6 +267,7 @@ m_PackageAssets:
         - 1.14.7
         - 1.14.9
         - 1.14.12
+        - 1.14.13
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -154,8 +317,8 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.1
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.ide.rider@1.2.1
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.ide.rider@1.2.1
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -268,8 +431,8 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.3
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.ide.visualstudio@2.0.3
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.ide.visualstudio@2.0.3
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -350,8 +513,8 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -380,6 +543,7 @@ m_PackageAssets:
         - 1.2.2
         - 1.2.3
         - 1.2.4
+        - 1.2.5
         compatible:
         - 1.0.2
         - 1.0.3
@@ -393,7 +557,8 @@ m_PackageAssets:
         - 1.2.2
         - 1.2.3
         - 1.2.4
-        verified: 1.2.4
+        - 1.2.5
+        verified: 1.2.5
       dependencies: []
       resolvedDependencies: []
       keywords: []
@@ -422,8 +587,8 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 8.2.0
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.render-pipelines.high-definition@8.2.0
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.render-pipelines.high-definition@8.2.0
       assetPath: Packages/com.unity.render-pipelines.high-definition
       name: com.unity.render-pipelines.high-definition
       displayName: High Definition RP
@@ -602,8 +767,8 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.18
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.test-framework@1.1.18
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.test-framework@1.1.18
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -650,6 +815,7 @@ m_PackageAssets:
         - 1.1.27
         - 1.1.29
         - 1.1.30
+        - 1.1.31
         - 2.0.1-pre.12
         - 2.0.1-pre.18
         compatible:
@@ -662,9 +828,10 @@ m_PackageAssets:
         - 1.1.27
         - 1.1.29
         - 1.1.30
+        - 1.1.31
         - 2.0.1-pre.12
         - 2.0.1-pre.18
-        verified: 1.1.30
+        verified: 1.1.31
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.0
@@ -707,8 +874,8 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.textmeshpro@3.0.1
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -873,8 +1040,8 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.6
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.timeline@1.3.6
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.timeline@1.3.6
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -2864,8 +3031,8 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.ext.nunit@1.0.0
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.ext.nunit@1.0.0
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2928,8 +3095,8 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 8.2.0
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.render-pipelines.core@8.2.0
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.render-pipelines.core@8.2.0
       assetPath: Packages/com.unity.render-pipelines.core
       name: com.unity.render-pipelines.core
       displayName: Core RP Library
@@ -3090,8 +3257,8 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 8.2.0
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.shadergraph@8.2.0
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.shadergraph@8.2.0
       assetPath: Packages/com.unity.shadergraph
       name: com.unity.shadergraph
       displayName: Shader Graph
@@ -3254,8 +3421,8 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 8.2.0
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.visualeffectgraph@8.2.0
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.visualeffectgraph@8.2.0
       assetPath: Packages/com.unity.visualeffectgraph
       name: com.unity.visualeffectgraph
       displayName: Visual Effect Graph
@@ -3393,8 +3560,8 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 8.2.0
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.render-pipelines.high-definition-config@8.2.0
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.render-pipelines.high-definition-config@8.2.0
       assetPath: Packages/com.unity.render-pipelines.high-definition-config
       name: com.unity.render-pipelines.high-definition-config
       displayName: High Definition RP Config
@@ -3497,8 +3664,8 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.9
       source: 1
-      resolvedPath: G:\Games Academy\Projekte\Temple_Tales_Revival\Temple_tales_Projekt\Temple-Tales-Remastered\Temple
-        Tales\Library\PackageCache\com.unity.searcher@4.0.9
+      resolvedPath: C:\Users\timja\OneDrive\Desktop\GA_Notizen\Freiwillige_Projekte\Temple
+        Tales Remastered\Temple-Tales-Remastered\Temple Tales\Library\PackageCache\com.unity.searcher@4.0.9
       assetPath: Packages/com.unity.searcher
       name: com.unity.searcher
       displayName: Searcher
@@ -3573,6 +3740,6 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: G:/Games Academy/Projekte/Temple_Tales_Revival/Temple_tales_Projekt/Temple-Tales-Remastered/Temple
-  Tales/Packages
+m_ProjectPath: C:/Users/timja/OneDrive/Desktop/GA_Notizen/Freiwillige_Projekte/Temple
+  Tales Remastered/Temple-Tales-Remastered/Temple Tales/Packages
 m_EditorVersion: 2020.1.14f1 (d81f64f5201d)
